@@ -1,0 +1,4 @@
+dataset,images,height_min,height_max,width_min,width_max,mean_fov_ratio,mean_manual1_vessel_ratio,mean_AH_vessel_ratio,mean_VK_vessel_ratio
+DRIVE_test,20,584,584,565,565,0.6877,0.1273,-,-
+DRIVE_train,20,584,584,565,565,0.6881,0.1254,-,-
+STARE,20,605,605,700,700,0.7161,-,0.1024,0.1464

@@ -1,0 +1,5 @@
+dataset,partition,images,annotation,fov
+DRIVE,train,15,1st manual,provided
+DRIVE,validation,5,1st manual,provided
+DRIVE,test,20,1st manual and 2nd manual,provided
+STARE,external test,20,AH and VK,generated
